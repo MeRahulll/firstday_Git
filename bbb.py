@@ -1,1 +1,1 @@
-print()
+print("fan of gajala")
